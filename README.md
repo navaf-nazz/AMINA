@@ -7,10 +7,10 @@
 <p align="center">
     
 <a href="#"><img title="AMINA"
- src="https://img.shields.io/badge/-Elsa%20Mowl-blue?&style=for-the-badge"></a>
+ src="https://img.shields.io/badge-AMINA-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/919447919086"><img title="Author" src="https://img.shields.io/badge/Author-NAVAF-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/919447919086"><img title="Author" src="https://img.shields.io/badge/Author-NAVAF-Ser/AMINA?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
  
 ## Subscriber My Channel More Updates Coming Soon..
@@ -18,7 +18,7 @@
 ![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
 
  ##
-https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
+https://youtube.com/channel/UCxwIqwYFxHVX4UX68TSpCwg
  
 # 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -29,7 +29,7 @@ Click WA logo to Join Support Group 👇
  
 
 
-# Elsa Mwol WhatsApp Bot 
+# AMINA WhatsApp Bot 
 
 # Setup
 <div align="center">
