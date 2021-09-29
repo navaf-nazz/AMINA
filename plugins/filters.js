@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Jihad
+/* Copyright (C) 2020 NAVAF
 
 WhatsAsena - Yusuf Usta	
 
