@@ -18,10 +18,10 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater JiHaD*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater NAVAF*
 *Bgm updation💘*
 
-*Owner number wa.me/917736703116*
+*Owner number wa.me/919447919086*
 
 *githublink       https://github.com/J-I-H-A-D/ElsaMwol*
 
