@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/KdiRhG8.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://github.com/navaf-nazz/AMINA/raw/master/Amina.jpg" width="200" height="200"/>
   
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+AMINA+WA+Bot+repo;Created+by+Navaf+Ser;This+is+the+Best++Bgm+bot;With+more+features)]
 
