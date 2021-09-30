@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://i.imgur.com/PjFla4v.png";
+  r_text[0] = "https://github.com/navaf-nazz/AMINA/raw/master/Amina.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -19,15 +19,15 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Creater NAVAF*
-*Bgm updation💘*
+*AMINA💘*
 
 *Owner number wa.me/919447919086*
 
-*githublink       https://github.com/J-I-H-A-D/ElsaMwol*
+*githublink       https://github.com/navaf-nazz/AMINA*
 
-*audio commads    https://github.com/J-I-H-A-D/ElsaMwol/tree/master/uploads*
+*audio commads    https://github.com/navaf-nazz/AMINA/tree/master/uploads*
 
-*sticker commads  https://github.com/J-I-H-A-D/ElsaMwol/tree/master/stickers*
+*sticker commads  https://github.com/navaf-nazz/AMINA/tree/master/stickers*
 `}) 
 
 }));
