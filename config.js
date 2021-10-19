@@ -34,6 +34,7 @@ module.exports = {
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     BGM: process.env.CHANGE_BGM_TO === undefined ? 'one' : process.env.CHANGE_BGM_TO,
+    BOTNME: process.env.BOT_NAME === undefined ? 'ElsaMwol' : process.env.BOT_NAME,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? true : convertToBool(process.env.AUTO_STICKER),
     DISSTICKER: process.env.DISABLE_STICKER === undefined ? false : process.env.DISABLE_STICKER,
     BOTPLK: process.env.BOT_NAME === undefined ? '𝐄𝐥𝐬𝐚𝐌𝐰𝐨𝐥' : process.env.BOT_NAME,
